@@ -1,2 +1,6 @@
-# KK-Resourcepack
-Korean KRonae's KRonae &amp; Kima Color Minecraft Resourcepack for above 1.19.3!
+# KK 리소스팩이 뭔데요?
+크로내가 공식적으로 만들어 키마와 크로내의 공식 생깔을 여러 버튼에 적용하는것으로 시작되어 만들어진 리소스팩, 바로 KronaeKima 리소스팩입니다.
+해당 리소스팩은 1.19.3 또는 그 이상의 버전에서 사용이 가능합니다.
+
+# LICENSE?
+해당 리소스팩은
